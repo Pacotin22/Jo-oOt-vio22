@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #ffffff;
+    background-color: #c70d0d;
 }
 
 
@@ -27,7 +27,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/tropicalia (1).jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
